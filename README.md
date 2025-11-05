@@ -72,17 +72,45 @@ TABULAR COLUMN
 
 <img width="740" height="291" alt="image" src="https://github.com/user-attachments/assets/c81fecfc-4192-449d-b05f-3f45f5961455" />
 
-## WaveForm
+## OUTPUT 
 
-## Halfwave
+### Half wave rectifier with filter:
 
-<img width="836" height="479" alt="image" src="https://github.com/user-attachments/assets/4092422a-c0de-47eb-81e1-79368a19c60c" />
+<img width="1325" height="823" alt="Screenshot 2025-11-04 235128" src="https://github.com/user-attachments/assets/52bf4dc3-7d91-47f6-a4ad-cebd215f5bba" />
 
-## FullWave
+### Half wave rectifier without filter:
 
-<img width="817" height="603" alt="image" src="https://github.com/user-attachments/assets/6d36a593-96b7-4f54-a5bd-003487e28361" />
+<img width="1920" height="1200" alt="Screenshot (214)" src="https://github.com/user-attachments/assets/981cb436-a784-4c93-b5ad-1d23b96e3ee7" />
 
-RESULT:
+### Full wave rectifier without filter
+
+<img width="1481" height="927" alt="Screenshot 2025-11-04 234908" src="https://github.com/user-attachments/assets/8e7d8076-6d37-40f9-bdb1-fad4c35b0c48" />
+
+### Full wave rectifier with filter
+
+<img width="1920" height="1200" alt="Screenshot (218)" src="https://github.com/user-attachments/assets/cdd95d58-6a63-46f3-b927-51523a88345e" />
+
+
+## WAVEFORM:
+
+### Half wave rectifier with filter:
+
+<img width="1920" height="1200" alt="Screenshot (212)" src="https://github.com/user-attachments/assets/28693919-21b6-4c43-b31d-256f44826965" />
+
+### Half wave rectifier without filter:
+
+<img width="1920" height="1200" alt="Screenshot (215)" src="https://github.com/user-attachments/assets/3f500d30-b807-4af3-858c-96c5bc24b87c" />
+
+
+### Full wave rectifier with filter
+
+<img width="1920" height="1200" alt="Screenshot (216)" src="https://github.com/user-attachments/assets/432af471-bb0d-4e4e-b6be-321a1e5d370a" />
+
+
+### Full wave rectifier without filter:
+
+<img width="1920" height="1200" alt="Screenshot (217)" src="https://github.com/user-attachments/assets/f756fe76-4949-453c-92b0-20e0036776a5" />
+
 RESULT:
 
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
