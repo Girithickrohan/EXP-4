@@ -44,22 +44,6 @@ CIRCUIT DIAGRAMS
 
 <img width="866" height="380" alt="image" src="https://github.com/user-attachments/assets/357c6534-223b-4f65-b418-f1bef926c7c2" />
 
-## Calculation of halfwave rectifier without filter
-
-<img width="852" height="368" alt="image" src="https://github.com/user-attachments/assets/a57f4334-3258-4f55-bb81-0db984ab7f5f" />
-
-## Calculation of halfwave rectifier with filter
-
-<img width="836" height="401" alt="image" src="https://github.com/user-attachments/assets/a46e8fd9-2cf0-4fd8-9e1e-fae8f8f7c5e8" />
-
-## Calculation of full wave rectifier
-
-<img width="864" height="678" alt="image" src="https://github.com/user-attachments/assets/12719b97-6844-40a6-aba3-24b1515bce07" />
-
-## with and without filter
-
-<img width="789" height="832" alt="image" src="https://github.com/user-attachments/assets/7ca0247e-170a-4b76-ad93-01a90004f11e" />
-
 TABULAR COLUMN
 
 ## For halfwave rectifier with and without filter
