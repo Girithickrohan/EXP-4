@@ -36,18 +36,53 @@ PROCEDURE:
 
 CIRCUIT DIAGRAMS
 
-Half wave rectifier with filter:
+## Halfwave rectifier with filter
 
-Bridge rectifier with filter:
+<img width="864" height="419" alt="image" src="https://github.com/user-attachments/assets/dfc44175-2144-4498-be05-a6b008f60c90" />
+
+## Bridge rectifier with filter
+
+<img width="866" height="380" alt="image" src="https://github.com/user-attachments/assets/357c6534-223b-4f65-b418-f1bef926c7c2" />
+
+## Calculation of halfwave rectifier without filter
+
+<img width="852" height="368" alt="image" src="https://github.com/user-attachments/assets/a57f4334-3258-4f55-bb81-0db984ab7f5f" />
+
+## Calculation of halfwave rectifier with filter
+
+<img width="836" height="401" alt="image" src="https://github.com/user-attachments/assets/a46e8fd9-2cf0-4fd8-9e1e-fae8f8f7c5e8" />
+
+## Calculation of full wave rectifier
+
+<img width="864" height="678" alt="image" src="https://github.com/user-attachments/assets/12719b97-6844-40a6-aba3-24b1515bce07" />
+
+## with and without filter
+
+<img width="789" height="832" alt="image" src="https://github.com/user-attachments/assets/7ca0247e-170a-4b76-ad93-01a90004f11e" />
 
 TABULAR COLUMN
-Rectifier without filter
+
+## For halfwave rectifier with and without filter
+
+<img width="830" height="258" alt="image" src="https://github.com/user-attachments/assets/b73e6511-8710-427b-ac69-bfcef248db03" />
+
 TABULAR COLUMN
-Rectifier with filter
 
-WAVEFORM:
+## For fullwave rectifier with and without filter
 
+<img width="740" height="291" alt="image" src="https://github.com/user-attachments/assets/c81fecfc-4192-449d-b05f-3f45f5961455" />
 
+## WaveForm
+
+## Halfwave
+
+<img width="836" height="479" alt="image" src="https://github.com/user-attachments/assets/4092422a-c0de-47eb-81e1-79368a19c60c" />
+
+## FullWave
+
+<img width="817" height="603" alt="image" src="https://github.com/user-attachments/assets/6d36a593-96b7-4f54-a5bd-003487e28361" />
+
+RESULT:
 RESULT:
 
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
