@@ -32,25 +32,25 @@ PROCEDURE:
 3.   Connect the capacitor filter and observe the waveforms. Note down and calculate ripple factor, rectifier efficiency and %regulation using the expressions. Repeat for different capacitor values.
 4.   Repeat the above steps for full wave and bridge rectifiers.
 
-![img]()
+![img](https://github.com/Girithickrohan/EXP-4/blob/main/1.jpeg)
 
-![img]()
+![img](https://github.com/Girithickrohan/EXP-4/blob/main/2.jpeg)
 
-![img]()
+![img](https://github.com/Girithickrohan/EXP-4/blob/main/3.jpeg)
 
-![img]()
+![img](https://github.com/Girithickrohan/EXP-4/blob/main/4.jpeg)
 
-![img]()
+![img](https://github.com/Girithickrohan/EXP-4/blob/main/5.jpeg)
 
-![img]()
+![img](https://github.com/Girithickrohan/EXP-4/blob/main/6.jpeg)
 
-![img]()
+![img](https://github.com/Girithickrohan/EXP-4/blob/main/7.jpeg)
 
-![img]()
+![img](https://github.com/Girithickrohan/EXP-4/blob/main/8.jpeg)
 
-![img]()
+![img](https://github.com/Girithickrohan/EXP-4/blob/main/9.jpeg)
 
-![img]()
+![img](https://github.com/Girithickrohan/EXP-4/blob/main/10.jpeg)
 
 ## OUTPUT 
 
