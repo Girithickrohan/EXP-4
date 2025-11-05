@@ -9,10 +9,8 @@ THEORY: Rectifier changes ac to dc and it is an essential part of power supply. 
 
 Half Wave Rectifier
 
-
 Mains power supply is applied at the primary of the step-down transformer. All the positive half cycles of the stepped down ac supply pass through the diode and all the negative half cycles get eliminated. Peak value of the output voltage is less than the peak value of the input voltage by 0.6V because of the voltage drop across the diode.
 For a half wave rectifier, Vrms = Vm/2 and Vdc = Vm/π: where Vrms = rms value of input, Vdc = Average value of input and Vm = peak value of output.
-
 
 Full Wave Rectifier
 During the positive half cycle of the transformer secondary voltage, diode     is forward biased and      is reverse biased. So a current flows through the diode     , load resistor      and upper half of the transformer  winding.  During  the  negative  half  cycle,  diode       becomes  forward  biased  and becomes reverse biased. The current then flows through the diode     , load resistor      and lower half of the transformer winding. Current flows through the load resistor in the same direction during both the half cycles. Peak value of the output voltage is less than the peak value of the input voltage by 0.6V
@@ -34,27 +32,25 @@ PROCEDURE:
 3.   Connect the capacitor filter and observe the waveforms. Note down and calculate ripple factor, rectifier efficiency and %regulation using the expressions. Repeat for different capacitor values.
 4.   Repeat the above steps for full wave and bridge rectifiers.
 
-CIRCUIT DIAGRAMS
+![img]()
 
-## Halfwave rectifier with filter
+![img]()
 
-<img width="864" height="419" alt="image" src="https://github.com/user-attachments/assets/dfc44175-2144-4498-be05-a6b008f60c90" />
+![img]()
 
-## Bridge rectifier with filter
+![img]()
 
-<img width="866" height="380" alt="image" src="https://github.com/user-attachments/assets/357c6534-223b-4f65-b418-f1bef926c7c2" />
+![img]()
 
-TABULAR COLUMN
+![img]()
 
-## For halfwave rectifier with and without filter
+![img]()
 
-<img width="830" height="258" alt="image" src="https://github.com/user-attachments/assets/b73e6511-8710-427b-ac69-bfcef248db03" />
+![img]()
 
-TABULAR COLUMN
+![img]()
 
-## For fullwave rectifier with and without filter
-
-<img width="740" height="291" alt="image" src="https://github.com/user-attachments/assets/c81fecfc-4192-449d-b05f-3f45f5961455" />
+![img]()
 
 ## OUTPUT 
 
